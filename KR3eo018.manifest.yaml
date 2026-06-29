@@ -1,0 +1,377 @@
+canonical_identifier: bkk:krp/KR3eo018/v1
+canonical_location: https://kanripo.org/bkk/KR3eo018/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 太素脈訣秘書
+  identifiers:
+    krp: KR3eo018
+  tags:
+    kr-categories: KR3eo
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo018.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eo018_000.yaml, hash: 'sha256:a81bd4635c4269780dec957f9e99c12b21cb70cb2be91642a979d422b38b0713'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eo018_000.markers.yaml, hash: 'sha256:8acc423377340eb6026e716023146cc2a7e0b6247ca6a4c8e7b5344212fcf7a1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 47
+  label: 五音看時逆順十干所主日辰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d3.h1s1
+    span:
+    - body
+    - 47
+    - 225
+  label: 論五陽脈浮滑實弦洪
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d4.h1s1
+    span:
+    - body
+    - 225
+    - 322
+  label: 論五陰脈微沉緩澀伏
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d5.h1s1
+    span:
+    - body
+    - 322
+    - 400
+  label: 論四營脈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d6.h1s1
+    span:
+    - body
+    - 400
+    - 569
+  label: 論輕清重濁四脈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d7.h1s1
+    span:
+    - body
+    - 569
+    - 864
+  label: 四營五脈歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d8.h1s1
+    span:
+    - body
+    - 864
+    - 1246
+  label: 論五臟四證訣知憂喜吉凶禍福之故
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d9.h1s1
+    span:
+    - body
+    - 1246
+    - 1333
+  label: 左心小腸應數歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d10.h1s1
+    span:
+    - body
+    - 1333
+    - 1418
+  label: 肝膽應數歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d11.h1s1
+    span:
+    - body
+    - 1418
+    - 1504
+  label: 腎膀胱應數歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d12.h1s1
+    span:
+    - body
+    - 1504
+    - 1591
+  label: 右肺大腸應數歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d13.h1s1
+    span:
+    - body
+    - 1591
+    - 1676
+  label: 脾胃應數歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d14.h1s1
+    span:
+    - body
+    - 1676
+    - 1703
+  label: 命門三焦應數歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d15.h1s1
+    span:
+    - body
+    - 1703
+    - 2708
+  label: 太素七十二候應數
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d16.h1s1
+    span:
+    - body
+    - 2708
+    - 3362
+  label: 太素提綱總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d17.h1s1
+    span:
+    - body
+    - 3362
+    - 3503
+  label: 總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d18.h1s1
+    span:
+    - body
+    - 3503
+    - 3847
+  label: 八卦初中末運論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d19.h1s1
+    span:
+    - body
+    - 3847
+    - 3906
+  label: 詩曰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d20.h1s1
+    span:
+    - body
+    - 3906
+    - 4207
+  label: 六氣所主
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d21.h1s1
+    span:
+    - body
+    - 4207
+    - 4294
+  label: 初中末三主
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d22.h1s1
+    span:
+    - body
+    - 4294
+    - 4629
+  label: 遊年化氣七表八里
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d23.h1s1
+    span:
+    - body
+    - 4629
+    - 4665
+  label: 太素五運所屬
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d24.h1s1
+    span:
+    - body
+    - 4665
+    - 4712
+  label: 六氣所屬主
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d25.h1s1
+    span:
+    - body
+    - 4712
+    - 4892
+  label: 三陰三陽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d26.h1s1
+    span:
+    - body
+    - 4892
+    - 5040
+  label: 太素明文說
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d27.h1s1
+    span:
+    - body
+    - 5040
+    - 5988
+  label: 太素捷輕
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d28.h1s1
+    span:
+    - body
+    - 5988
+    - 6178
+  label: 七表八里論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d29.h1s1
+    span:
+    - body
+    - 6178
+    - 10078
+  label: 太素總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d30.h1s1
+    span:
+    - body
+    - 10078
+    - 10821
+  label: 脈賦
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d31.h1s1
+    span:
+    - body
+    - 10821
+    - 10904
+  label: 四時脈證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d32.h1s1
+    span:
+    - body
+    - 10904
+    - 10927
+  label: 汗吐下三脈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d33.h1s1
+    span:
+    - body
+    - 10927
+    - 10953
+  label: 論壽脈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d34.h1s1
+    span:
+    - body
+    - 10953
+    - 11227
+  label: 脈定生死止應九十日
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d35.h1s1
+    span:
+    - body
+    - 11227
+    - 11347
+  label: 十怪脈論傷寒之證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo018_jc_000-d36.h1s1
+    span:
+    - body
+    - 11347
+    - 11501
+  label: 女脈大略
+  type: section
+  level: 1
+hash: sha256:2416c77f5f39f7fa45cc7f86cb8d3d8a96ab216d45d5153efd8154e35fdf0334
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
