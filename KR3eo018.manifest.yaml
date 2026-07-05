@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo018_000.yaml, hash: 'sha256:a81bd4635c4269780dec957f9e99c12b21cb70cb2be91642a979d422b38b0713'}
+  - {seq: 0, filename: KR3eo018_000.yaml, hash: 'sha256:db180c7fd26061c5e5f56d754356f12a9e72994c61c9a7ce3224a2e0d1225667'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo018_000.markers.yaml, hash: 'sha256:8acc423377340eb6026e716023146cc2a7e0b6247ca6a4c8e7b5344212fcf7a1'}
+  - {seq: 0, role: markers, filename: assets/KR3eo018_000.markers.yaml, hash: 'sha256:d3a0697c2eef36cfa5636efabe52e2f64b7e450dcd536645b8a1ed8bd294e843'}
 table_of_contents:
 - ref:
     seq: 0
@@ -371,7 +371,4 @@ table_of_contents:
   label: 女脈大略
   type: section
   level: 1
-hash: sha256:2416c77f5f39f7fa45cc7f86cb8d3d8a96ab216d45d5153efd8154e35fdf0334
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:41bd041a348afa64296c0d71ce247fb980468c353d72d449010023c64eba92f2
