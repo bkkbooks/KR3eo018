@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eo018/v1
 canonical_location: https://kanripo.org/bkk/KR3eo018/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 太素脈訣秘書
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo018_000.yaml, hash: 'sha256:db180c7fd26061c5e5f56d754356f12a9e72994c61c9a7ce3224a2e0d1225667'}
+  - {seq: 0, filename: KR3eo018_000.yaml, hash: 'sha256:081526328202810a4180f38e20b8c6fef00e2caed510ecc0fa3839c199ee3a3d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo018_000.markers.yaml, hash: 'sha256:d3a0697c2eef36cfa5636efabe52e2f64b7e450dcd536645b8a1ed8bd294e843'}
+  - {seq: 0, role: markers, filename: assets/KR3eo018_000.markers.yaml, hash: 'sha256:4378ae1c96c86a7a14a812ec4f1a558b9f6ead738cdab9dd0d29e40969d75d5d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -371,4 +371,7 @@ table_of_contents:
   label: 女脈大略
   type: section
   level: 1
-hash: sha256:41bd041a348afa64296c0d71ce247fb980468c353d72d449010023c64eba92f2
+hash: sha256:6cd8936733c61e1752297fbe41bb13f14292a8babcbe24b3d64266b99a34f65b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
